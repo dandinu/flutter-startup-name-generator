@@ -4,6 +4,7 @@ Startup Name Generator app in Flutter with added Domain Name Availability and Fa
 
 The customizations persist the favorites on disk and also display if the .com and .net domains are available for registration.
 
+[![flutter-startup-name-gen.png](https://i.postimg.cc/YSx524LN/flutter-startup-name-gen.png)](https://postimg.cc/XZpHQY8X)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
